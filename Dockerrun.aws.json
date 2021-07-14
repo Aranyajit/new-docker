@@ -11,6 +11,7 @@
 		{
 			"name": "nginx",
 			"image": "sayak1992docker/multi-nginx",
+			"hostname": "nginx",
 			"essential": true,
 			"portMappings": [
 				{
